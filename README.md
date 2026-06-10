@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ananya Hadimani
+
+Mechanical Engineering @ NITK Surathkal
+
+## Interests
+- Software Engineering
+- Quantitative Finance
+- Trading
+- Competitive Programming
+
+## Featured Projects
+- Fortify – Secure Remote Desktop with Intruder Detection
+- VolFlux – Volatility Forecasting & Risk-Adaptive Trading Platform
+- SubSpace Assignment – Automated Outreach Pipeline
+
+## Currently Learning
+- DSA & Competitive Programming
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
+
+## Links
+LinkedIn
+Resume
 
 <!--
 **ananyahadimani-stack/ananyahadimani-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
