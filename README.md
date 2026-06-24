@@ -11,7 +11,6 @@ Mechanical Engineering @ NITK Surathkal
 ## Featured Projects
 - Fortify – Secure Remote Desktop with Intruder Detection
 - VolFlux – Volatility Forecasting & Risk-Adaptive Trading Platform
-- SubSpace Assignment – Automated Outreach Pipeline
 
 ## Currently Learning
 - DSA & Competitive Programming
@@ -21,7 +20,7 @@ Mechanical Engineering @ NITK Surathkal
 - Computer Networks
 
 ## Links
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/ananya-hadimani-4120031bb
 Resume
 
 <!--
